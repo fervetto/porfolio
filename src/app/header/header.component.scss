@@ -1,0 +1,29 @@
+p{color:white};
+
+img
+  {width: 100%;
+  height: 100%;
+}
+
+.logo{
+  width:15%;
+}
+.banner{
+  color:white;
+  font-size:xx-large;
+  border-radius: 25% 25% 25% 25%;
+  border: double white;
+  text-align: center;
+  padding:5px;
+  background-color: rgba(210, 20, 235, 0.753);
+  align-self: center;
+}
+header{
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  justify-content: space-around;
+  height: 15%;
+  width: 100%;
+  border-bottom: white 2px solid;
+}
